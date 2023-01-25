@@ -5,3 +5,4 @@ function ft_print_numbers() {
         }
         return str;
       }
+      console.log(ft_print_numbers());
