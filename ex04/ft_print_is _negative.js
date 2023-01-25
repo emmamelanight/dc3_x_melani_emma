@@ -6,4 +6,4 @@ function ft_print_is_negative(number) {
           return 'N';
         }
       }
-      console.log('ft_print_is_negative', ft_print_is_negative(1), ft_print_is_negative(-1), ft_print_is_negative(0));
+      console.log(ft_print_is_negative(1), ft_print_is_negative(-1), ft_print_is_negative(0));
